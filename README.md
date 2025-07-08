@@ -57,7 +57,7 @@ A Retrieval-Augmented Generation (RAG) app using:
 
 ---
 
-### 🤖 [Blackboard-Based Agentic AI Framework]
+### 🤖 Blackboard-Based Agentic AI Framework
 > A reliable AI orchestration system using multi-agent architecture and ethical governance.
 
 **Concepts Used:**
@@ -68,7 +68,7 @@ A Retrieval-Augmented Generation (RAG) app using:
 
 ---
 
-### 🧪 [XAI for MRI-based Brain Prediction]
+### 🧪 XAI for MRI-based Brain Prediction
 > Deep Learning + Explainable AI for neonatal brain MRI segmentation and HIE prediction.
 
 - CNN/UNet for segmentation
@@ -125,7 +125,7 @@ A Retrieval-Augmented Generation (RAG) app using:
 
 ---
 
-### 🖼️ [Image Editing System]
+### 🖼️ Image Editing System
 > Simple Python-based image editor using Pillow / OpenCV.
 
 - Crop, rotate, filter, enhance images
@@ -133,7 +133,7 @@ A Retrieval-Augmented Generation (RAG) app using:
 
 ---
 
-### 🏫 [School Management System]
+### 🏫 School Management System
 > Admin panel + role-based access system for schools.
 
 - Manage students, teachers, results, and attendance
