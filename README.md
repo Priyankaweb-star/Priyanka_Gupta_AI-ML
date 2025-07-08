@@ -5,7 +5,6 @@
 📍 Noida, India  
 📧 priyankagupta2647@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/priyankagupta0704/)  
-🗂️ [Resume](#) *(Add link if hosted)*
 
 ---
 
