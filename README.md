@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="170">
-      <img src="C:\Users\Kanika.LAPTOP-US4FH6DM\OneDrive\HUMARI SHADI KI PHOTOS\priyanka.jpg" alt="Priyanka Gupta" width="160" style="border-radius: 10px;" />
+      <img src="C:\Users\Kanika.LAPTOP-US4FH6DM\OneDrive\HUMARI_SHADI_KI_PHOTOS\priyanka.jpg" alt="Priyanka Gupta" width="160" style="border-radius: 10px;" />
     </td>
     <td>
       <h1>Priyanka Gupta</h1>
