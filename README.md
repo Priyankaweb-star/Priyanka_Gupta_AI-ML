@@ -1,12 +1,17 @@
-# 👋 Hi, I'm Priyanka Gupta
-
-**AI/ML Engineer | Generative AI | Agentic Systems | NLP & CV | Python Enthusiast**
-
-📍 Noida, India  
-📧 priyankagupta2647@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/priyankagupta0704/)  
-
----
+<table>
+  <tr>
+    <td width="170">
+      <img src="C:\Users\Kanika.LAPTOP-US4FH6DM\OneDrive\HUMARI SHADI KI PHOTOS\priyanka.jpg" alt="Priyanka Gupta" width="160" style="border-radius: 10px;" />
+    </td>
+    <td>
+      <h1>Priyanka Gupta</h1>
+      <p><strong>AI/ML Engineer | Generative AI | Agentic Systems | NLP & CV</strong></p>
+      <p>📍 Noida, India</p>
+      <p>📧 <a href="mailto:priyankagupta2647@gmail.com">priyankagupta2647@gmail.com</a></p>
+      <p>🔗 <a href="https://www.linkedin.com/in/priyankagupta0704/">LinkedIn</a></p>
+    </td>
+  </tr>
+</table>
 
 ## 🧠 About Me
 
